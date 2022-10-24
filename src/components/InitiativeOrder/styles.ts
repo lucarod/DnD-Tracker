@@ -16,6 +16,9 @@ export const Header = styled.h2`
 
 export const CreatureList = styled.div`
   padding: 32px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 `
 
 export const Footer = styled.div`

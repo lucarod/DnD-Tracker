@@ -19,6 +19,7 @@ export const Container = styled.div`
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: bold;
+    text-align: center;
   }
 
   input {

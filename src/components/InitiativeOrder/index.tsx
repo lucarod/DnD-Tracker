@@ -10,6 +10,8 @@ export function InitiativeOrder() {
       <Header>Initiative</Header>
       <CreatureList>
         <CreatureCard />
+        <CreatureCard />
+        <CreatureCard />
       </CreatureList>
       <Footer>
         <Button variant="secondary">Undo</Button>
